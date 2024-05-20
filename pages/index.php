@@ -19,6 +19,7 @@
       rel="stylesheet"
     />
 
+
     <!-- Vendor CSS Files -->
     <link
       href="../assets/vendor/bootstrap/css/bootstrap.min.css"
@@ -43,12 +44,7 @@
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet" />
 
-    <!-- =======================================================
-  * Template Name: NiceAdmin - v2.4.0
-  * Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
   </head>
 
   <body>
